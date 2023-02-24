@@ -14,3 +14,4 @@ end
 
 (1..num_max). each do |num|
 puts fizzbuzz(num)
+end
